@@ -24,7 +24,7 @@
   width: 371px;
   height: 112px;
 }
-.div2 {
+.divi2 {
   display: flex;
   flex-direction: row;
 }
@@ -34,10 +34,17 @@ textarea {
   width: 756px;
   height: 298px;
   resize: none;
+  margin-right: 20px;
 }
 .divi {
   display: flex;
   flex-direction: column;
+}
+input[type="text"] {
+  margin-bottom: 20px;
+}
+input[type="submit"] {
+  background: #5968f4;
 }
 .for1 {
   width: 370px;
